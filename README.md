@@ -44,4 +44,4 @@ Recomenda-se a continuidade da utilização das ferramentas implementadas e a av
 ---
 
 **Assinatura do Responsável pelo Projeto:**  
-[Seu nome]  
+Anna Clara Ribeiro. 
