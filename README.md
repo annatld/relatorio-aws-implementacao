@@ -16,7 +16,7 @@ O objetivo principal foi adotar soluções AWS que proporcionem **redução de c
 O projeto foi estruturado em **3 etapas**, cada uma focada em um serviço específico da AWS, selecionado para atender necessidades críticas da empresa.
 
 ### **Etapa 1**
-- **Serviço:**Amazon S3 
+- **Serviço:** Amazon S3 
 - **Foco:** Armazenamento seguro e escalável de documentos e dados.
 - **Caso de uso:** Centralizar e organizar o envio e recebimento de relatórios de controle de qualidade com empresas parceiras, substituindo servidores locais e reduzindo custos de manutenção.
 
